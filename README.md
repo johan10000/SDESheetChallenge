@@ -15,3 +15,9 @@ Prizes to be won(as stated by striver):
 5. Placement/Internship Opportunities for top performers, Codestudio will be referring to the amazing product-based companies they have tied up with. Also, they will hire interns + full-time for their firm as well.
 
 There will be no overlap of winners, and we will be using randomization tools to find out the winners.
+
+How is the leaderboard calculated?:
+
+It will be ranked by the number of problems solved, in the case of ties, it ranks on the basis of who solved it first.
+
+Sponsor of the challenge: #codestudio
