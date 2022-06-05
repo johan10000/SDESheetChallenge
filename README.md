@@ -33,3 +33,4 @@ It will be ranked by the number of problems solved, in the case of ties, it rank
 Sponsor of the challenge: #codestudio
 
 Striver's challenge video by striver: https://www.youtube.com/watch?v=yy4ltCvoWHQ
+Challenge description: https://takeuforward.org/uncategorized/strivers-sde-sheet-challenge/
