@@ -8,6 +8,8 @@ Which codes am I pushing to git?: My #Leetcode codes
 Day 59: I will fill this form: https://docs.google.com/forms/d/e/1FAIpQLSc4yZbljw5u_cm_syT2XrqRAyJ4SQETd_E-qBzvioPO-w594A/viewform
         And will post on linkedin: #SdeSheetChallengeDone
         
+My friend and I are solving the sheet. This is our excel sheet where we are keeping 4 problems per day to solve the day prior: https://iiitaphyd-my.sharepoint.com/:x:/g/personal/manika_sharma_research_iiit_ac_in/Eb8kkpPFjFxEleib028996sBDnljgEyuWeZKUOJCnnttDA?e=rzleqt
+
 Prizes to be won(as stated by striver):
 
 1. From the people who complete the #SdeSheetChallenge and fill out the google form, 25 people selected randomly get takeUforward t-shirts delivered to their doorstep.
