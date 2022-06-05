@@ -10,6 +10,12 @@ Day 59: I will fill this form: https://docs.google.com/forms/d/e/1FAIpQLSc4yZblj
         
 My friend and I are solving the sheet. This is our excel sheet where we are keeping 4 problems per day to solve the day prior: https://iiitaphyd-my.sharepoint.com/:x:/g/personal/manika_sharma_research_iiit_ac_in/Eb8kkpPFjFxEleib028996sBDnljgEyuWeZKUOJCnnttDA?e=rzleqt
 
+I am following neetcode's method of writing notes for each problem as follows: https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0
+
+Finally: The striver's sheet is: https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
+
+Meanwhile, To clear an off-campus placement, I am spending sometime daily on reading this blog: https://takeuforward.org/interviews/sde-off-campus-placement-calendar-freshers/
+
 Prizes to be won(as stated by striver):
 
 1. From the people who complete the #SdeSheetChallenge and fill out the google form, 25 people selected randomly get takeUforward t-shirts delivered to their doorstep.
@@ -25,3 +31,5 @@ How is the leaderboard calculated?:
 It will be ranked by the number of problems solved, in the case of ties, it ranks on the basis of who solved it first.
 
 Sponsor of the challenge: #codestudio
+
+Striver's challenge video by striver: https://www.youtube.com/watch?v=yy4ltCvoWHQ
