@@ -20,7 +20,7 @@
 
 bool isPalindrome(LinkedListNode<int> *head) {
     // Write your code here.
-        if(head->next==NULL)
+        if(head==NULL || head->next==NULL)
             return true;
         
         LinkedListNode<int> *slow=head;
