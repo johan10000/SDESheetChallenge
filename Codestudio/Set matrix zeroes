@@ -1,0 +1,71 @@
+#include <bits/stdc++.h> 
+void setZeros(vector<vector<int>> &matrix)
+{
+	// Write your code here.
+    int f=0;
+        int g=0;
+        
+        //pehli row mai agar kahi bhi zero hai, toh mark krdo, k hume pehli row ko zero krna hai
+        for(int j=0;j<matrix[0].size();j++)
+        {
+            if(matrix[0][j]==0)
+                f++;
+        }
+        
+        //pehle column mai kahi bhi zero hai, toh mark krdo k hume pehle column ko zero krna hai
+        for(int i=0;i<matrix.size();i++)
+        {
+            if(matrix[i][0]==0)
+                g++;
+        }
+        
+        //check kro, agar pehle row and pehle column ko chor k agar kahi b zero hai, toh unke pehle row aur pehle column mark krdo, k unhe zero krna hai
+        for(int i=1;i<matrix.size();i++)
+        {
+            for(int j=1;j<matrix[0].size();j++)
+            {
+                if(matrix[i][j]==0)
+                {
+                    matrix[i][0]=0;
+                    matrix[0][j]=0;
+                }
+            }
+        }
+        
+        // pehli row ko chor k kisi b row mai pehla element zero hai, toh us row ko zero krdo
+        for(int i=1;i<matrix.size();i++)
+        {
+            if(matrix[i][0]==0)
+            for(int j=0;j<matrix[0].size();j++)
+            {
+                matrix[i][j]=0;
+            }
+        }
+        
+        // pehle column ko chor k kisi b column mai pehla element zero hai, toh us column ko zero krdo
+        for(int j=1;j<matrix[0].size();j++)
+        {
+            if(matrix[0][j]==0)
+            for(int i=1;i<matrix.size();i++)
+            {
+                matrix[i][j]=0;
+            }
+        }
+        
+        
+        if(f!=0)
+        {
+            for(int j=0;j<matrix[0].size();j++)
+            {
+                matrix[0][j]=0;
+            }
+        }
+        
+        if(g!=0)
+        {
+            for(int i=0;i<matrix.size();i++)
+            {
+                matrix[i][0]=0;
+            }
+        }
+}
